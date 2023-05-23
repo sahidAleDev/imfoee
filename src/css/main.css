@@ -243,7 +243,7 @@ img{
 	overflow: hidden;
 	background: none;
 	border-radius:50px;
-	background-color:#00ab15;
+	background-color:#26CC63;
 	text-transform: capitalize;
 	font-family: 'Poppins', sans-serif;
 	box-shadow:0px 5px 10px rgba(0,0,0,0.10);
@@ -283,7 +283,7 @@ img{
 }
 
 .btn-style-one:hover{
-	color: #00ab15;
+	color: #26CC63;
 }
 
 /* Btn Style Two */
@@ -323,7 +323,7 @@ img{
     height: 100%;
     z-index: 1;
     opacity: 0;
-    background-color: #00ab15;
+    background-color: #26CC63;
     -webkit-transition: all 0.4s;
     -moz-transition: all 0.4s;
     -o-transition: all 0.4s;
@@ -786,7 +786,7 @@ img{
 	color:#00ab15;
 }
 
-.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/icons/preloader.svg); background-size:90px;}
+.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(/icons/preloader.svg); background-size:90px;}
 
 img{
 	display:inline-block;
@@ -996,16 +996,16 @@ img{
 	font-weight:400;
 	padding:6px 22px;
 	border-radius:50px;
-	background-color:#00ab15;
+	background-color:#26CC63;
 }
 
 .main-header .header-top .login-nav li:nth-child(2) a:hover{
-	background-color:#0d6691;
+	background-color:#0F4DB8;
 	color:#ffffff;
 }
 
 .main-header .header-top .login-nav li a:hover{
-	color:#00ab15;
+	color:#26CC63;
 }
 
 .main-header .main-box{
@@ -1415,14 +1415,14 @@ img{
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a{
 	opacity:1;
-	color:#00ab15;
+	color: #26CC63;
 }
 
 .header-style-two .main-menu .navigation > li:hover > a,
 .header-style-two .main-menu .navigation > li.current > a,
 .header-style-three .main-menu .navigation > li:hover > a,
 .header-style-three .main-menu .navigation > li.current > a{
-	color:#f52d4e;
+	color:#26CC63;
 }
 
 .header-style-two .main-menu .navigation > li > ul > li:hover > a,
@@ -1646,7 +1646,7 @@ img{
 	right:0px;
 	top:0px;
 	padding:0px;
-	background-color:#222222;
+	background-color:#0F4DB8;
 	box-shadow:0px 0px 15px rgba(0,0,0,0.12);
 }
 
@@ -3474,14 +3474,14 @@ img{
 
 .call-to-action-section-two .content h2{
 	position: relative;
-    color: #ffffff;
+    color: #3C3C3C;
     line-height: 1.4em;
     font-weight: 700;
 }
 
 .call-to-action-section-two .content .text{
     position: relative;
-    color: #ffffff;
+    color: #3C3C3C;
     line-height: 1.8em;
     font-weight: 400;
     font-size: 16px;
@@ -3503,7 +3503,7 @@ img{
 
 .main-footer{
 	position:relative;
-	background-color:#b4e9f9;
+	background-color:#0F4DB8;
 }
 
 .main-footer .pattern-layer{
@@ -3572,7 +3572,7 @@ img{
 .main-footer .footer-widget h4{
 	position:relative;
 	font-weight:600;
-	color:#3C3C3C;
+	color: #fdfdfd;;
 	padding-bottom:10px;
 	margin-bottom:30px;
 	text-transform:capitalize;
@@ -3585,7 +3585,7 @@ img{
 	bottom:0px;
 	height:2px;
 	width:30px;
-	background-color:#3C3C3C;
+	background-color:#26CC63;
 }
 
 .main-footer .logo-widget{
@@ -3601,7 +3601,7 @@ img{
 .main-footer .logo-widget .text{
 	position:relative;
 	font-size:16px;
-	color:#626262;
+	color:#fdfdfd;
 	line-height:1.7em;
 	margin-bottom:25px;
 }
@@ -3613,7 +3613,7 @@ img{
 .main-footer .logo-widget .social-box a{
 	position:relative;
 	font-size:18px;
-	color:#00ab15;
+	color:#26CC63;
 	margin-right:20px;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
@@ -3627,6 +3627,7 @@ img{
 }
 
 .main-footer .logo-widget .copyright{
+	color: gainsboro;
 	margin-top:20px;
 }
 
@@ -3637,7 +3638,7 @@ img{
 
 .main-footer .links-widget li a{
 	position:relative;
-	color:#626262;
+	color:#fdfdfd;
 	font-size:16px;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
@@ -6038,8 +6039,8 @@ img{
 .page-title{
 	position:relative;
 	text-align:center;
-	padding:220px 0px 0px;
-	background-color:#075e89;
+	padding:220px;
+	background-color:#0F4DB8;
 }
 
 .page-title.style-two{
@@ -7079,7 +7080,7 @@ img{
 
 .cource-block-two .inner-box .lower-content .hours{
 	position:relative;
-	color:#00ab15;
+	color: #26CC63;
 	font-size:14px;
 	font-weight:500;
 	line-height:1.4em;
