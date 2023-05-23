@@ -960,7 +960,7 @@ img{
 }
 
 .main-header .header-top .info-list li a:hover{
-	color:#00ab15;
+	color:#26CC63;
 }
 
 .main-header .header-top .top-right{
@@ -1141,6 +1141,11 @@ img{
 
 .header-style-two.fixed-header .header-upper{
 	background-color:#ffffff !important;
+}
+
+.header-style-one .header-upper {
+	background-color:#0F4DB8 !important;
+
 }
 
 .header-style-two.fixed-header .header-upper .outer-box .login-nav li:first-child a,
@@ -1663,7 +1668,7 @@ img{
 }
 
 .main-header.fixed-header .header-upper .outer-box .theme-btn{
-	border-color:#000000;
+	border-color:#0F4DB8;
 	color:#000000;
 }
 
@@ -7489,7 +7494,6 @@ img{
 .popular-courses-section{
 	position:relative;
 	padding-top:0px;
-	padding-bottom:80px;
 	background-color:#eff4fa;
 }
 
